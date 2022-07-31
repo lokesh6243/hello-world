@@ -1,6 +1,6 @@
 <form action="action_page.php">
   <div class="container">
-	  <h1> lokesh6243 user regristration for devops course </h1>
+	  <h1> lokesh6243 user regristration for final devops course </h1>
     <p>Please fill in this form to create an account.</p>
     <hr>
      
@@ -9,7 +9,7 @@
     <br>
     
     <label for="mobile"><b>Enter mobile</b></label>
-    <input type="text" placeholder="Enter moible number" name="mobile" id="mobile" required>
+    <input type="text" placeholder="Enter phone number" name="mobile" id="mobile" required>
 
     <label for="email"><b>Enter Email</b></label>
     <input type="text" placeholder="Enter Email" name="email" id="email" required>
